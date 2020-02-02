@@ -67,7 +67,7 @@ Nummer manuell eingeben: +4915153126834
 * Mit WOL können Mitarbeiter frühes und konstruktives Feedback von Personen bekommen, die sie von sich aus nicht gefragt hätten
 
 Mehr dazu bei Twitter und LinkedIn:
-* https://twitter.com/LeonidLezner/status/1223606242507198464?s=20
+* https://twitter.com/LeonidLezner/status/1223606242507198464
 * https://twitter.com/hashtag/WQA0102
 * https://www.linkedin.com/feed/hashtag/?keywords=%23WQA0102
 
