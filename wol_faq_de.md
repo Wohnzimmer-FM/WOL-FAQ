@@ -73,8 +73,21 @@ Mehr dazu bei Twitter und LinkedIn:
 
 ### ==#WQA0202== Was kostet WOL dem Unternehmen?
 
-Wird noch beantwortet...
+* Zeitinvestition von ca. 24h: 12 Wochen, 1 Stunde pro Woche für Vorbereitung, 1 Stunde für das Treffen mit dem Circle
+* Mitarbeiter\*innen investieren ihre Arbeitszeit oder persönliche Zeit
+* Keine Lizenzkosten, alle Unterlagen sind frei verfügbar
+* WOL ist eine Lernmethode, kann also als eine Weiterbildung mit ca. 2 Tagen pro Circle betrachtet werden
+* Die investierte Zeit zahlt sich aus über schnellere Lösungsfindung im Netzwerk
 
+Mehr dazu bei Twitter und LinkedIn:
+* https://twitter.com/hashtag/WQA0202
+
+### ==#WQA0302== Wie passt WOL zu unseren Unternehmenswerten?
+
+⏳ Wird noch beantwortet...
+
+Mehr dazu bei Twitter und LinkedIn:
+* https://twitter.com/hashtag/WQA0302
 
 ---
 
@@ -89,7 +102,7 @@ Fehlt dir eine Frage? Stelle sie per Twitter oder einem der oben genannten Messe
 ### Fragen zur Motivation
 
 * ==#WQA0102== Was bringt WOL mir/meinem Arbeitgeber? :white_check_mark: 
-* ==#WQA0202== Was kostet WOL dem Unternehmen? 
+* ==#WQA0202== Was kostet WOL dem Unternehmen? :white_check_mark: 
 * ==#WQA0302== Wie passt WOL zu unseren Unternehmenswerten?
 * ==#WQA0402== Wie erkläre ich meinem Management, dass eine Stunde pro Woche WOL mir und dem Unternehmen nutzt?
 * ==#WQA0502== Was habe ich persönlich von WOL, bin doch sowieso schon toll vernetzt?
