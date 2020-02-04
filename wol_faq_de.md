@@ -10,6 +10,8 @@
 🎁 Die Antworten werden dann hier auf der Seite dokumentiert. Die Audioaufnahmen gibt es als Podcast zu hören.
 :::
 
+<iframe title="WOL Fragen sammeln für FAQ" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/media/player/xvvte-d1ec20?from=yiiadmin&download=1&version=1&skin=1&btn-skin=107&auto=0&download=1&pbad=1"></iframe>
+
 ## Und so machst du mit 😊
 
 ![](https://i.imgur.com/HQgA5Ur.jpg)
@@ -84,10 +86,23 @@ Mehr dazu bei Twitter und LinkedIn:
 
 ### ==#WQA0302== Wie passt WOL zu unseren Unternehmenswerten?
 
-⏳ Wird noch beantwortet...
+* Gemeinsam erreichen wir mehr
+* "Selbstarbeiter" haben mit ihrer Haltung gesellschaftl Einfluss
+* Häufig sind heute Kollaboration & Experimentieren in irgendeiner Form Bestandteil der Unternehmenswerte
+* Die eigenen Werte mit WOL verknüpfen ist wertvoll
+* Die Elemente von WOL und die Übungen der Circle Guides manifestieren eine transparente, kollaborative und selbstreflektierende Geisteshaltung - und fördern so eine agile Arbeitsweise
+* In einer Firma mit Unternehmenswerten, die sich noch nicht in den agilen Werten wiederspiegeln, fördert WOL die Entwicklung der Werte in diese Richtung
+* WOL baut auf aktiven Austausch und das Gegenteil von "Information hiding" - die Grundvoraussetzung für echte Innovation
 
 Mehr dazu bei Twitter und LinkedIn:
 * https://twitter.com/hashtag/WQA0302
+
+### ==#WQA0402== Wie erkläre ich meinem Management, dass eine Stunde pro Woche WOL mir und dem Unternehmen nutzt?
+
+⏳ Wird noch beantwortet...
+
+Mehr dazu bei Twitter und LinkedIn:
+* https://twitter.com/hashtag/WQA0402
 
 ---
 
@@ -103,7 +118,7 @@ Fehlt dir eine Frage? Stelle sie per Twitter oder einem der oben genannten Messe
 
 * ==#WQA0102== Was bringt WOL mir/meinem Arbeitgeber? :white_check_mark: 
 * ==#WQA0202== Was kostet WOL dem Unternehmen? :white_check_mark: 
-* ==#WQA0302== Wie passt WOL zu unseren Unternehmenswerten?
+* ==#WQA0302== Wie passt WOL zu unseren Unternehmenswerten? :white_check_mark: 
 * ==#WQA0402== Wie erkläre ich meinem Management, dass eine Stunde pro Woche WOL mir und dem Unternehmen nutzt?
 * ==#WQA0502== Was habe ich persönlich von WOL, bin doch sowieso schon toll vernetzt?
 * ==#WQA0602== Passt WOL zum agilen Vorgehen?
