@@ -99,10 +99,30 @@ Mehr dazu bei Twitter und LinkedIn:
 
 ### ==#WQA0402== Wie erkläre ich meinem Management, dass eine Stunde pro Woche WOL mir und dem Unternehmen nutzt?
 
-⏳ Wird noch beantwortet...
+* Ohne Lernzeit keine Professionalisierung
+* Mit WOL entsteht Leichtigkeit und Spaß bei der Arbeit
+* Schnellere Informationsbeschaffung durch Vernetzung
+
+:arrow_right: Überschneidungen mit  ==#WQA0102==
 
 Mehr dazu bei Twitter und LinkedIn:
 * https://twitter.com/hashtag/WQA0402
+
+### ==#WQA0502== Was habe ich persönlich von WOL, bin doch sowieso schon toll vernetzt?
+
+* 
+
+Mehr dazu bei Twitter und LinkedIn:
+* https://twitter.com/hashtag/WQA0502
+
+
+### ==#WQA0602== Passt WOL zum agilen Vorgehen?
+
+⏳ Wird noch beantwortet...
+
+Mehr dazu bei Twitter und LinkedIn:
+* https://twitter.com/hashtag/WQA0602
+
 
 ---
 
@@ -119,7 +139,7 @@ Fehlt dir eine Frage? Stelle sie per Twitter oder einem der oben genannten Messe
 * ==#WQA0102== Was bringt WOL mir/meinem Arbeitgeber? :white_check_mark: 
 * ==#WQA0202== Was kostet WOL dem Unternehmen? :white_check_mark: 
 * ==#WQA0302== Wie passt WOL zu unseren Unternehmenswerten? :white_check_mark: 
-* ==#WQA0402== Wie erkläre ich meinem Management, dass eine Stunde pro Woche WOL mir und dem Unternehmen nutzt?
+* ==#WQA0402== Wie erkläre ich meinem Management, dass eine Stunde pro Woche WOL mir und dem Unternehmen nutzt? :white_check_mark: 
 * ==#WQA0502== Was habe ich persönlich von WOL, bin doch sowieso schon toll vernetzt?
 * ==#WQA0602== Passt WOL zum agilen Vorgehen?
 * ==#WQA0702== Ist der Circle Arbeitszeit oder Freizeit?
