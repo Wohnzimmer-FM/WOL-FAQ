@@ -110,18 +110,56 @@ Mehr dazu bei Twitter und LinkedIn:
 
 ### ==#WQA0502== Was habe ich persönlich von WOL, bin doch sowieso schon toll vernetzt?
 
-* 
+* WOL schafft eine systematische Vernetzung
+* WOL ist mehr als nur eine Methode, um Netzwerke aufzubauen, es ist auch ein Mindset für offene Zusammenarbeit
+* WOL hilft dabei sichtbar zu werden
+* Das Netzwerk von heute ist für die Aufgaben und Herausforderungen von morgen wahrscheinlich nicht mehr ausreichend - WOL ermöglicht es das Netzwerk themenspezifisch und zielgerichtet zu erweitern
+* Es geht nicht nur um das Netzwerken, man findet in WOL auch ein selbstbestimmtes Leben. Dies führt wiederum zu mehr Ausgeglichenheit und Zufriedenheit
+
 
 Mehr dazu bei Twitter und LinkedIn:
 * https://twitter.com/hashtag/WQA0502
 
 
 ### ==#WQA0602== Passt WOL zum agilen Vorgehen?
+ 
+
+* Beide Ideen verbindet das lebenslange Lernen, Selbstorganisation und Offenheit
+* :earth_africa: [Wie Working Out Loud agiles Mindset fördert – ein Praxisbericht](https://ilonalibal.com/wie-working-out-loud-agiles-mindset-foerdert-ein-praxisbericht)
+* :earth_africa: [Methoden und Tools vs. Kultur im agilen Umfeld](https://www.linkedin.com/pulse/methoden-und-tools-vs-kultur-im-agilen-umfeld-andreas-schorn/)
+
+Mehr dazu bei Twitter und LinkedIn:
+* https://twitter.com/hashtag/WQA0602
+
+
+### ==#WQA0702== Ist der Circle Arbeitszeit oder Freizeit?
+
+* Solange keine offizielle Unterstützung des Unternehmens oder der Vorgesetzten besteht, ist es keine Arbeitszeit
+* Ist Lernen in der Firma als Arbeitszeit angesehen, kann es Arbeitszeit sein
+
+Mehr dazu bei Twitter und LinkedIn:
+* https://twitter.com/hashtag/WQA0702
+
+### ==#WQA0802== Wie sollen mir Leute im Circle helfen, die mein Ziel thematisch nicht verstehen?
+
+* Die Hilfe sollte sich auf das Wie und ggf. das Wozu konzentrieren
+* Ein WOL-Circle gibt Möglichkeit zu üben, fachliche Themen so herunterzubrechen, dass auch andere sie verstehen
+* Durch Fragen stellen und verstehen wollen
+* Man reflektiert sich selbst und erhält mehr Klarheit
+* Sie helfen das Ziel zu reflektieren, bringen auf neue Ideen und unterstützen bei der Suche nach Kontakten
+* Indem sie Fragen stellen, auf die man nicht selbst gekommen wäre
+* Der Circle ist ein „Resonanzraum“, in dem man sein Lernen reflektiert und teilt
+
+Mehr dazu bei Twitter und LinkedIn:
+* https://twitter.com/hashtag/WQA0802
+
+### ==#WQA0902== Wozu muss ich Menschen vernetzen, die einfach nur ihre Arbeit richtig machen sollen?
 
 ⏳ Wird noch beantwortet...
 
 Mehr dazu bei Twitter und LinkedIn:
-* https://twitter.com/hashtag/WQA0602
+* https://twitter.com/hashtag/WQA0902
+
 
 
 ---
@@ -140,32 +178,31 @@ Fehlt dir eine Frage? Stelle sie per Twitter oder einem der oben genannten Messe
 * ==#WQA0202== Was kostet WOL dem Unternehmen? :white_check_mark: 
 * ==#WQA0302== Wie passt WOL zu unseren Unternehmenswerten? :white_check_mark: 
 * ==#WQA0402== Wie erkläre ich meinem Management, dass eine Stunde pro Woche WOL mir und dem Unternehmen nutzt? :white_check_mark: 
-* ==#WQA0502== Was habe ich persönlich von WOL, bin doch sowieso schon toll vernetzt?
-* ==#WQA0602== Passt WOL zum agilen Vorgehen?
-* ==#WQA0702== Ist der Circle Arbeitszeit oder Freizeit?
-* ==#WQA0802== Wie sollen mir Leute im Circle helfen, die mein Ziel thematisch nicht verstehen?
+* ==#WQA0502== Was habe ich persönlich von WOL, bin doch sowieso schon toll vernetzt? :white_check_mark:
+* ==#WQA0602== Passt WOL zum agilen Vorgehen? :white_check_mark:
+* ==#WQA0702== Ist der Circle Arbeitszeit oder Freizeit? :white_check_mark: 
+* ==#WQA0802== Wie sollen mir Leute im Circle helfen, die mein Ziel thematisch nicht verstehen? :white_check_mark: 
 * ==#WQA0902== Wozu muss ich Menschen vernetzen, die einfach nur ihre Arbeit richtig machen sollen?
+
+### Organisatorische Fragen
+
+* ==#WQA1002== Müssen sich die Teilnehmenden persönlich treffen?
+* ==#WQA1102== Wie finde ich einen Circle?
+* ==#WQA1202== Wie lange dauert ein Circle?
+* ==#WQA1302== Wieviel Zeit muss ich investieren?
+* ==#WQA1402== Kann ich auch einen Circle abbrechen?
+* ==#WQA1502== Kann ich mein Ziel im Laufe des Circles ändern?
+* ==#WQA1602== Wie viel Zeit muss ich in einer Woche in WOL investieren?
+* ==#WQA1702== Wer organisiert den Circle?
+* ==#WQA1802== Was wenn ich mein Ziel nicht erreiche?
+* ==#WQA1902== Leitet die Gruppe sich selbst oder gibt es einen (gewählten) Leiter?
+* ==#WQA2002== Was ist, wenn ich verhindert/krank bin?
+* ==#WQA2102== Was ist, wenn ich die Menschen im Circle nicht mag?
+* ==#WQA2202== Muss ich mein Ziel öffentlich/publik machen?
 
 :::info
 Weitere Tags folgen...
 :::
-
-### Fragen zur Organisation
-
-* Müssen sich die Teilnehmenden persönlich treffen?
-* Wie finde ich einen Circle?
-* Wie lange dauert ein Circle?
-* Wieviel Zeit muss ich investieren?
-* Kann ich auch einen Circle abbrechen?
-* Kann ich mein Ziel im Laufe des Circles ändern?
-* Wie viel Zeit muss ich in einer Woche in WOL investieren?
-* Wer organisiert den Circle?
-* Was wenn ich mein Ziel nicht erreiche?
-* Leitet die Gruppe sich selbst oder gibt es einen (gewählten) Leiter?
-* Was ist, wenn ich verhindert/krank bin?
-* Was ist, wenn ich die Menschen im Circle nicht mag?
-* Muss ich mein Ziel öffentlich/publik machen?
-
 
 ### Fragen zur Rahmenbedingungen
 
