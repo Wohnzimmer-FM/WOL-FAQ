@@ -137,7 +137,7 @@ Mehr dazu bei Twitter und LinkedIn:
 * Solange keine offizielle Unterstützung des Unternehmens oder der Vorgesetzten besteht, ist es keine Arbeitszeit
 * Ist Lernen in der Firma als Arbeitszeit angesehen, kann es Arbeitszeit sein
 
-Mehr dazu bei Twitter und LinkedIn:
+Mehr dazu bei Twitter:
 * https://twitter.com/hashtag/WQA0702
 
 ### ==#WQA0802== Wie sollen mir Leute im Circle helfen, die mein Ziel thematisch nicht verstehen?
@@ -150,7 +150,7 @@ Mehr dazu bei Twitter und LinkedIn:
 * Indem sie Fragen stellen, auf die man nicht selbst gekommen wäre
 * Der Circle ist ein „Resonanzraum“, in dem man sein Lernen reflektiert und teilt
 
-Mehr dazu bei Twitter und LinkedIn:
+Mehr dazu bei Twitter:
 * https://twitter.com/hashtag/WQA0802
 
 ### ==#WQA0902== Wozu muss ich Menschen vernetzen, die einfach nur ihre Arbeit richtig machen sollen?
@@ -160,7 +160,7 @@ Mehr dazu bei Twitter und LinkedIn:
 * Vernetzung hilft thematische Ansprechpartner für bekannte Herausforderungen zu finden. Das klappt lokal nicht bei allen Themen. Zusätzlich das unbekannte im Thema sichtbar zu machen, blinden Flecke, Annahmen
 * Silodenken ist auf Grenzen beschränktes Denken und damit ist die Definition von „richtig“ auch nur auf diese Grenzen beschränkt. Vernetzung heißt auch: Entdecke die Möglichkeiten!
 
-Mehr dazu bei Twitter und LinkedIn:
+Mehr dazu bei Twitter:
 * https://twitter.com/hashtag/WQA0902
 
 ---
@@ -171,14 +171,14 @@ Mehr dazu bei Twitter und LinkedIn:
 * Der persönliche Austausch jede Woche ist das Herzstück von WOL und bringt wertvolle neue Perspektiven,  Bestätigung und Zuspruch zum Durchhalten
 * Um die Treffen eines WOL-Circles gut zu gestalten, sollten Zeit und Ort für die Gruppe passend gewählt werden, was auch bedeuten kann, dass ein virtueller Raum die beste Wahl ist. Regelmäßigkeit ist wichtiger als ein „echter“ Raum
 
-Mehr dazu bei Twitter und LinkedIn:
+Mehr dazu bei Twitter:
 * https://twitter.com/hashtag/WQA1002
 
 ### ==#WQA1102== Wie finde ich einen Circle?
 
 * Z.B. über den CircleFinder: http://circlefinder.workingoutloud.com/
 
-Mehr dazu bei Twitter und LinkedIn:
+Mehr dazu bei Twitter:
 * https://twitter.com/hashtag/WQA1102
 
 
@@ -187,11 +187,45 @@ Mehr dazu bei Twitter und LinkedIn:
 * Der erste Durchlauf 12-15 Wochen, Abkürzung selten sinnvoll. Viele Circle bestehen danach weiter, Treffen meist in anderer Frequenz z.B. einmal im Monat
 * Wenn sich ein WOL Circle alle zwei Wochen trifft (plus Urlaub), macht dann im Schnitt 24-28 Wochen
 
-Mehr dazu bei Twitter und LinkedIn:
+Mehr dazu bei Twitter:
 * https://twitter.com/hashtag/WQA1202
 
+### ==#WQA1302== Wieviel Zeit muss ich investieren?
+
+* 1 Stunde pro Woche für Vorbereitung, 1 Stunde für das Treffen mit dem Circle
+* Je mehr Zeit ich dafür investiere, desto effektiver ist der Circle
+
+Mehr dazu bei Twitter:
+* https://twitter.com/hashtag/WQA1302
+
+### ==#WQA1402== Kann ich auch einen Circle abbrechen?
+
+* Ja, kann man. Vor allem sei aber ehrlich mit Dir selbst und reflektiere ob du gerade Zeit hast einen WOL-Circle zu machen und ggf starte später. Und wenn es nicht passt. Sei ehrlich und steig aus Klarheit - aber unterschätze nicht die Power. Vielleicht ist es doch eine Priority
+* Natürlich, freie Entscheidung. Es hilft allen am besten, wenn man motiviert im Circle ist und sich die Zeit für die Aufgaben nimmt. Wer das nicht will und kann, sollte besser abbrechen
+
+Mehr dazu bei Twitter:
+* https://twitter.com/hashtag/WQA1402
+
+
+### ==#WQA1502== Kann ich mein Ziel im Laufe des Circles ändern?
+
+* Ja, kann man und das ist auch nicht ungewöhnlich. Oft stellt man beim Erleben der Methode in den ersten Wochen fest, das ein anderes Ziel passender ist
+* Zieldefinition ist ein hartes Brot (siehe auch Nutzen, Wert). Das will trainiert werden. Und dazu gehört es, den Weg und das Ziel anzupassen, wenn es neue Erkenntnisse etc. gibt
+* Frei nach dem Motto fail fast ist das Teil des Lernprozesses. Das wirkliche Ziel finden wir nur allzuoft auf dem Weg. Und dann Mut haben, neu denken!
+
+Mehr dazu bei Twitter:
+* https://twitter.com/hashtag/WQA1502
+
+
+### ==#WQA1602== Wer organisiert den Circle?
 
 ⏳ Wird noch beantwortet...
+
+
+Mehr dazu bei Twitter:
+* https://twitter.com/hashtag/WQA1602
+
+
 
 
 
@@ -222,9 +256,9 @@ Fehlt dir eine Frage? Stelle sie per Twitter oder einem der oben genannten Messe
 * ==#WQA1002== Müssen sich die Teilnehmenden persönlich treffen? :white_check_mark: 
 * ==#WQA1102== Wie finde ich einen Circle? :white_check_mark: 
 * ==#WQA1202== Wie lange dauert ein Circle? :white_check_mark: 
-* ==#WQA1302== Wieviel Zeit muss ich investieren?
-* ==#WQA1402== Kann ich auch einen Circle abbrechen?
-* ==#WQA1502== Kann ich mein Ziel im Laufe des Circles ändern?
+* ==#WQA1302== Wieviel Zeit muss ich investieren? :white_check_mark: 
+* ==#WQA1402== Kann ich auch einen Circle abbrechen? :white_check_mark: 
+* ==#WQA1502== Kann ich mein Ziel im Laufe des Circles ändern? :white_check_mark: 
 * ==#WQA1602== Wer organisiert den Circle?
 * ==#WQA1702== Was wenn ich mein Ziel nicht erreiche?
 * ==#WQA1802== Leitet die Gruppe sich selbst oder gibt es einen (gewählten) Leiter?
