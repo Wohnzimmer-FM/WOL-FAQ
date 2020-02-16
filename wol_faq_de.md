@@ -155,10 +155,43 @@ Mehr dazu bei Twitter und LinkedIn:
 
 ### ==#WQA0902== Wozu muss ich Menschen vernetzen, die einfach nur ihre Arbeit richtig machen sollen?
 
-⏳ Wird noch beantwortet...
+
+* Bei einfachsten Arbeiten mag diese Frage berechtigt sein. Nur wird einfachste Arbeit mehr und mehr automatisiert. Je komplizierter und/oder komplexer die Arbeit jedoch wird, umso wertvoller wird Vernetzung. Zum Fragen und Lernen, den Blick über den Tellerrand etc.
+* Vernetzung hilft thematische Ansprechpartner für bekannte Herausforderungen zu finden. Das klappt lokal nicht bei allen Themen. Zusätzlich das unbekannte im Thema sichtbar zu machen, blinden Flecke, Annahmen
+* Silodenken ist auf Grenzen beschränktes Denken und damit ist die Definition von „richtig“ auch nur auf diese Grenzen beschränkt. Vernetzung heißt auch: Entdecke die Möglichkeiten!
 
 Mehr dazu bei Twitter und LinkedIn:
 * https://twitter.com/hashtag/WQA0902
+
+---
+
+### ==#WQA1002== Müssen sich die Teilnehmenden persönlich treffen?
+
+* Ja, aber nicht unbedingt physisch.
+* Der persönliche Austausch jede Woche ist das Herzstück von WOL und bringt wertvolle neue Perspektiven,  Bestätigung und Zuspruch zum Durchhalten
+* Um die Treffen eines WOL-Circles gut zu gestalten, sollten Zeit und Ort für die Gruppe passend gewählt werden, was auch bedeuten kann, dass ein virtueller Raum die beste Wahl ist. Regelmäßigkeit ist wichtiger als ein „echter“ Raum
+
+Mehr dazu bei Twitter und LinkedIn:
+* https://twitter.com/hashtag/WQA1002
+
+### ==#WQA1102== Wie finde ich einen Circle?
+
+* Z.B. über den CircleFinder: http://circlefinder.workingoutloud.com/
+
+Mehr dazu bei Twitter und LinkedIn:
+* https://twitter.com/hashtag/WQA1102
+
+
+### ==#WQA1202== Wie lange dauert ein Circle?
+
+* Der erste Durchlauf 12-15 Wochen, Abkürzung selten sinnvoll. Viele Circle bestehen danach weiter, Treffen meist in anderer Frequenz z.B. einmal im Monat
+* Wenn sich ein WOL Circle alle zwei Wochen trifft (plus Urlaub), macht dann im Schnitt 24-28 Wochen
+
+Mehr dazu bei Twitter und LinkedIn:
+* https://twitter.com/hashtag/WQA1202
+
+
+⏳ Wird noch beantwortet...
 
 
 
@@ -182,23 +215,22 @@ Fehlt dir eine Frage? Stelle sie per Twitter oder einem der oben genannten Messe
 * ==#WQA0602== Passt WOL zum agilen Vorgehen? :white_check_mark:
 * ==#WQA0702== Ist der Circle Arbeitszeit oder Freizeit? :white_check_mark: 
 * ==#WQA0802== Wie sollen mir Leute im Circle helfen, die mein Ziel thematisch nicht verstehen? :white_check_mark: 
-* ==#WQA0902== Wozu muss ich Menschen vernetzen, die einfach nur ihre Arbeit richtig machen sollen?
+* ==#WQA0902== Wozu muss ich Menschen vernetzen, die einfach nur ihre Arbeit richtig machen sollen? :white_check_mark:
 
 ### Organisatorische Fragen
 
-* ==#WQA1002== Müssen sich die Teilnehmenden persönlich treffen?
-* ==#WQA1102== Wie finde ich einen Circle?
-* ==#WQA1202== Wie lange dauert ein Circle?
+* ==#WQA1002== Müssen sich die Teilnehmenden persönlich treffen? :white_check_mark: 
+* ==#WQA1102== Wie finde ich einen Circle? :white_check_mark: 
+* ==#WQA1202== Wie lange dauert ein Circle? :white_check_mark: 
 * ==#WQA1302== Wieviel Zeit muss ich investieren?
 * ==#WQA1402== Kann ich auch einen Circle abbrechen?
 * ==#WQA1502== Kann ich mein Ziel im Laufe des Circles ändern?
-* ==#WQA1602== Wie viel Zeit muss ich in einer Woche in WOL investieren?
-* ==#WQA1702== Wer organisiert den Circle?
-* ==#WQA1802== Was wenn ich mein Ziel nicht erreiche?
-* ==#WQA1902== Leitet die Gruppe sich selbst oder gibt es einen (gewählten) Leiter?
-* ==#WQA2002== Was ist, wenn ich verhindert/krank bin?
-* ==#WQA2102== Was ist, wenn ich die Menschen im Circle nicht mag?
-* ==#WQA2202== Muss ich mein Ziel öffentlich/publik machen?
+* ==#WQA1602== Wer organisiert den Circle?
+* ==#WQA1702== Was wenn ich mein Ziel nicht erreiche?
+* ==#WQA1802== Leitet die Gruppe sich selbst oder gibt es einen (gewählten) Leiter?
+* ==#WQA1902== Was ist, wenn ich verhindert/krank bin?
+* ==#WQA2002== Was ist, wenn ich die Menschen im Circle nicht mag?
+* ==#WQA2102== Muss ich mein Ziel öffentlich/publik machen?
 
 :::info
 Weitere Tags folgen...
